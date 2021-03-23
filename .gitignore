@@ -33,4 +33,6 @@
 
 *.hdr
 *.dat
+
 dataset
+*/node_modules/*
